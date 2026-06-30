@@ -87,7 +87,3 @@ along with the prediction confidence.
 - ROC-AUC Score: **0.97**
 - High Precision and Recall
 - Excellent classification performance
-
-
-
-📁 Project St
